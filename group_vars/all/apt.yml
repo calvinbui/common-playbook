@@ -1,0 +1,10 @@
+---
+
+apt_install_packages:
+  - name: open-vm-tools
+  - name: vim
+  - name: htop
+  - name: nano
+  - name: tree
+  - name: unzip
+  - name: ncdu

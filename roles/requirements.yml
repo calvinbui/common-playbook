@@ -1,5 +1,7 @@
 ---
 
-- src: https://github.com/calvinbui/ansible-ubuntu-setup
-  version: master
-  name: ubuntu-setup
+- src: calvinbui.ansible_apt
+  version: 1.0.0
+
+- src: calvinbui.ansible_authorized_keys
+  version: 1.0.0
