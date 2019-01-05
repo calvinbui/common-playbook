@@ -1,3 +1,3 @@
-# Ubuntu Playbook
+# Common Playbook
 
-A playbook to set up my Ubuntu servers to my liking.
+A playbook to set up my servers to my liking.
