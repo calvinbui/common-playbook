@@ -8,3 +8,6 @@ apt_install_packages:
   - name: tree
   - name: unzip
   - name: ncdu
+  - name: curl
+  - name: wget
+  - name: dnsutils
