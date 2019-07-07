@@ -11,3 +11,4 @@ apt_install_packages:
   - name: curl
   - name: wget
   - name: dnsutils
+  - name: aptitude
